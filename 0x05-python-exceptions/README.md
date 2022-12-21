@@ -1,0 +1,1 @@
+about excepions and errors
